@@ -8,14 +8,17 @@
 /* Header */
 
 .header {
-  background-color: rgba(255, 255, 255, 0.95);
-  border-bottom: 1px solid #ddd;
-  
+  background-image: url(https://lh3.ggpht.com/-tLLgeAhv9tY/U4v4T00QgtI/AAAAAAAAAL4/ofjJKyZ4kG0UKYX99Ltj1VrW2AjAevvUg/s1024/photo);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+    
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
   
   font-size: 17px;
-  padding: 15px;
+  padding: 800px;
 }
 
 
