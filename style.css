@@ -115,7 +115,8 @@
 .slide-feature {
 /*  text-align: center; */
   background-image: url('https://lh3.ggpht.com/-tLLgeAhv9tY/U4v4T00QgtI/AAAAAAAAAL4/ofjJKyZ4kG0UKYX99Ltj1VrW2AjAevvUg/s1536/photo"></a>');
-  height: 20px;
+  width: 100%;
+  height: auto;
 }
 
 .slide-feature img {
