@@ -113,14 +113,14 @@
 /* Slide feature */
 
 .slide-feature {
-  text-align: center;
+/*  text-align: center; */
   background-image: url('https://lh3.ggpht.com/-tLLgeAhv9tY/U4v4T00QgtI/AAAAAAAAAL4/ofjJKyZ4kG0UKYX99Ltj1VrW2AjAevvUg/s1536/photo"></a>');
-  height: 200px;
+  height: 20px;
 }
 
 .slide-feature img {
-  margin-top: 112px;
-  margin-bottom: 28px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .slide-feature a {
