@@ -78,13 +78,14 @@
 
 .slide-copy h1 {
   color: #363636;  
-  text-align: center;
+  
   font-family: 'Oswald', sans-serif;
   font-weight: 400;
   
   font-size: 40px;
   margin-top: 200px;
   margin-bottom: 0px;
+  margin-left: 100px;
 }
 
 .slide-copy h2 {
