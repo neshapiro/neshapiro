@@ -114,20 +114,20 @@
 
 /* Slide feature */
 
-.slide-feature {
+.slide-hotel {
 /*  text-align: center; */
   background-image: url('https://lh3.ggpht.com/-tLLgeAhv9tY/U4v4T00QgtI/AAAAAAAAAL4/ofjJKyZ4kG0UKYX99Ltj1VrW2AjAevvUg/s1536/photo');
   width: 100%;
   height: 100%;
 }
 
-.slide-feature img {
+.slide-hotel img {
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 0px;
 }
 
-.slide-feature a {
+.slide-hotel a {
   display: block;
   color: #6fc5e0;
   
@@ -136,6 +136,19 @@
   font-weight: 400;
   
   font-size: 20px;
+}
+
+.slide-pub {
+  /*  text-align: center; */
+  background-image: url('https://lh6.googleusercontent.com/proxy/y1F_IYoGRLE0RR6bCL1Sx_af2UYO-cH3Er25wyFzjyBoysERKPiIqFBdcvPGjaSBJDvj4v5KpyuObmz6jIsI41qM3IX3rOQhConsf9ULgDNB2Tdi9BPZvu6XES6avstQP2Nug1tx2mI1oTkS12GosPyVZd3Wr5iorQJYSr3llneiMg=w203-h135');
+  width: 100%;
+  height: 100%;
+}
+
+.slide-pub img {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
 }
 
 .slider-nav {
