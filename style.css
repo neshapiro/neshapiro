@@ -57,7 +57,7 @@
 .slider {
   position: relative;
   width: 100%;
-  height: 800px;
+  height: 1000px;
   border-bottom: 1px solid #ddd;
 }
 
@@ -115,7 +115,7 @@
 .slide-feature {
   text-align: center;
   background-image: url('https://lh3.ggpht.com/-tLLgeAhv9tY/U4v4T00QgtI/AAAAAAAAAL4/ofjJKyZ4kG0UKYX99Ltj1VrW2AjAevvUg/s1536/photo"></a>');
-  height: 470px;
+  height: 200px;
 }
 
 .slide-feature img {
