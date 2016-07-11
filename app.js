@@ -21,7 +21,7 @@ var main = function () {
 
         currentDot.removeClass('active-dot');
         nextDot.addClass('active-dot');
-    });
+    })
 
 
     $('.arrow-prev').click(function () {
