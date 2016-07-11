@@ -1,3 +1,13 @@
+<html>
+    <head>
+    <script src="jquery.js"></script>
+    <script>
+    $function(){
+        $("#includedContent").load("header.html");
+    });
+    </script>
+    </head>
+
 var main = function () {
     $('.dropdown-toggle').click(function () {
         $('.dropdown-menu').toggle();
@@ -43,6 +53,6 @@ var main = function () {
         prevDot.addClass('active-dot');
     });
 
-}
+};
 
 $(document).ready(main);
