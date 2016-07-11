@@ -139,7 +139,7 @@
 }
 
 slide-food {
-    background-image: url("images/salad.jpg");
+    background-image: url("/images/salad.jpg");
     width: 100%;
     height:100%;
 }
