@@ -139,14 +139,19 @@
 }
 
 slide-food {
-    background-image: url("/images/salad.jpg");
-    width: 100%;
-    height:100%;
+  background-image: url('/images/salad.jpg');
+  width: 100%;
+  height:100%;
 }
 
+slide-food img {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
 slide-food a {
-    display:block;
-    color: #6fc5e0;
+  display:block;
+  color: #6fc5e0;
 
   font-family: "HelveticaNeueMdCn", Helvetica, sans-serif;
   font-family: 'Oswald', sans-serif;
