@@ -1,9 +1,4 @@
 var main = function () {
-    $('.dropdown-toggle').click(function () {
-        $('.dropdown-menu').toggle();
-    });
-
-
     $('.arrow-next').click(function () {
         var currentSlide = $('.active-slide');
         var nextSlide = currentSlide.next();
@@ -49,6 +44,11 @@ var main = function () {
         if (this.readyState !== 4) return;
         if (this.status !== 200) return; // or whatever error handling you want
         document.getElementById('header').innerHTML = this.responseText;
+
+// now that content is loaded, bind click event
+        $('.dropdown-toggle').click(function () {
+            $('.dropdown-menu').toggle();
+        });
     };
     header.send();
 
