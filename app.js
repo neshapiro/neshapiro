@@ -39,7 +39,7 @@ var main = function () {
     });
 
     var header = new XMLHttpRequest();
-    header.open('GET', 'header.html', true);
+    header.open('GET', 'http://shapirowedding.com/header.html', true);
     header.onreadystatechange = function () {
         if (this.readyState !== 4) return;
         if (this.status !== 200) return; // or whatever error handling you want
