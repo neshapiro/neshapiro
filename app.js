@@ -43,6 +43,17 @@ var main = function () {
         prevDot.addClass('active-dot');
     });
 
+    var header = new XMLHttpRequest();
+    header.open('GET', 'header.html', true);
+    header.onreadystatechange = function () {
+        if (this.readyState !== 4) return;
+        if (this.status !== 200) return; // or whatever error handling you want
+        document.getElementById('header').innerHTML = this.responseText;
+    };
+    header.send();
+
 };
+
+
 
 $(document).ready(main);
