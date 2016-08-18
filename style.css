@@ -297,7 +297,7 @@
 }
 
 .palmgarden ul {
-  color: #959595;
+  color: #b7b7b7;
   
   font-family: Georgia, "Times New Roman", serif;
   /*font-size: 1.15em;*/
@@ -313,9 +313,9 @@
   color: #959595;
   
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.15em;
+  font-size: 1.25em;
   
-  line-height: 1.75em;
+  line-height: 1.25em;
   
   list-style: none;
   margin-bottom: 0px;
