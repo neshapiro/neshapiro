@@ -118,7 +118,7 @@
 
 .slide-hotel {
 /*  text-align: center; */
-  background-image: url('https://lh3.ggpht.com/-tLLgeAhv9tY/U4v4T00QgtI/AAAAAAAAAL4/ofjJKyZ4kG0UKYX99Ltj1VrW2AjAevvUg/s1536/photo');
+  background-image: url('images/hotel.jpg"');
   width: 100%;
   height: 100%;
 }
@@ -256,4 +256,49 @@
   
   /*width: 900px;*/
   text-align: center;
+}
+
+.palmgarden h1 {
+  color: #363636;  
+  
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+  
+  margin-top: 50px;
+  margin-bottom: 16px;
+  margin-left: 20px;
+
+  text-align: center;
+}
+
+.palmgarden h2 {
+      color: #b7b7b7;
+  
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+  
+  
+  margin: 5px;
+  text-align: center;
+}
+
+.palmgarden p {
+  color: #959595;
+  
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.15em;
+  
+  line-height: 1.75em;
+  
+  margin-bottom: 0px;
+  margin-top: 0px;
+  
+  /*width: 900px;*/
+  text-align: center;
+}
+
+.palmgarden li {
+
 }
