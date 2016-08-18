@@ -263,7 +263,7 @@
   
   font-family: 'Oswald', sans-serif;
   font-weight: 400;
-  font-size: 40px;
+  font-size: 50px;
   
   margin-top: 50px;
   margin-bottom: 16px;
@@ -273,11 +273,11 @@
 }
 
 .palmgarden h2 {
-      color: #b7b7b7;
+  color: #b7b7b7;
   
   font-family: 'Oswald', sans-serif;
   font-weight: 400;
-  font-size: 40px;
+  font-size: 30px;
   
   
   margin: 5px;
@@ -299,6 +299,32 @@
   text-align: center;
 }
 
-.palmgarden li {
+.palmgarden ul {
+  color: #959595;
+  
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.15em;
+  
+  line-height: 1.75em;
+  
+  margin-bottom: 0px;
+  margin-top: 0px;
+  
+  /*width: 900px;*/
+  text-align: center;
+}
 
+.palmgarden li {
+  color: #959595;
+  
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.15em;
+  
+  line-height: 1.75em;
+  
+  margin-bottom: 0px;
+  margin-top: 0px;
+  
+  /*width: 900px;*/
+  text-align: center;
 }
