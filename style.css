@@ -118,7 +118,7 @@
 
 .slide-hotel {
 /*  text-align: center; */
-  background-image: url('images/hotel.jpg"');
+  background-image: url('http:/shapirowedding.com/images/hotel.jpg"');
   width: 100%;
   height: 100%;
 }
@@ -280,7 +280,8 @@
   font-size: 30px;
   
   
-  margin: 5px;
+  margin-bottom: 5px;
+  margin-top: 5px;
   text-align: center;
 }
 
@@ -292,7 +293,8 @@
   
   line-height: 1.75em;
   
-  margin: 5px;  
+  margin-bottom: 5px;
+  margin-top: 5px;
   text-align: center;
 }
 
@@ -305,7 +307,8 @@
   
   /*line-height: 1.75em;*/
   
-  margin: 5px;
+  margin-bottom: 5px;
+  margin-top: 5px;
   text-align: center;
 }
 
