@@ -117,18 +117,16 @@
 /* Slide feature */
 
 .slide-hotel {
-  /*text-align: center;*/ 
+/*  text-align: center; */
   background-image: url('images/hotel.jpg');
   width: 100%;
   height: 100%;
 }
 
 .slide-hotel img {
-  *display: block;
-  margin: auto;
-  /*margin-top: 0px;
+  margin-top: 0px;
   margin-bottom: 0px;
-  margin-left: 0px;*/
+  margin-left: 0px;
 }
 
 .slide-hotel a {
@@ -144,7 +142,7 @@
 
 .slide-food {
 /*  text-align: center; */
-  /*background-image: url('images/salad.jpg');*/
+  background-image: url('images/salad.jpg');
   width: 100%;
   height: 100%;
 }
@@ -168,7 +166,7 @@
 
 .slide-pub {
   /*  text-align: center; */
-  /*background-image: url('images/pub.jpg');*/
+  background-image: url('images/pub.jpg');
   width: 100%;
   height: 100%;
 }
