@@ -147,6 +147,12 @@
   font-size: 20px;
 }
 
+.slide-hotel h2 {
+    color:white;
+    margin:0;
+    padding:20px;
+}
+
 .slide-food {
 /*  text-align: center; */
   background-image: url('images/salad.jpg');
