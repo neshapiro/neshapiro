@@ -125,32 +125,27 @@
       url('images/hotel.jpg');
   background-size: cover;
   text-align: center;
+  color:white;
+  margin:0;
   width: 100%;
   height: 100%;
   position:relative;
 }
 
-.slide.hotel h1{
+.slide.hotel h1 {
   /*display: block;
   color: #6fc5e0;
   
   font-family: "HelveticaNeueMdCn", Helvetica, sans-serif;
   font-family: 'Oswald', sans-serif;
-  font-weight: 400;
-  
-  font-size: 20px;*/
+  font-weight: 400;*/
   display: block;
   font-size: 7em;
-  /*text-align: center;*/
-  color:white;
-  margin:0;
   padding:20px;
 }
 
 .slide-hotel h2 {
-    /*text-align: center;*/
     font-size: 4em;
-    color:white;
     margin:0;
     padding:20px;
 }
@@ -158,21 +153,14 @@
 .slide-hotel p {
     /*text-align: center;*/
     font-size: 2em;
-    color:white;
-    margin:0;
     padding:0px;
 }
 
 .slide-hotel ul {
-    /*text-align: center;*/
-    color:white;
-    margin:0;
+    
 }
 
 .slide-hotel li {
-    /*text-align: center;*/
-    color:white;
-    margin:0;
     list-style: none;
 }
 
