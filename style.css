@@ -134,7 +134,7 @@
 
 .slide.hotel h1 {
   display: block;
-  font-size: 7em;
+  font-size: 10em;
   padding-top:20px;
 }
 
@@ -151,7 +151,8 @@
 }
 
 .slide-hotel ul {
-    
+    font-size: 2em;
+    padding: 10px;
 }
 
 .slide-hotel li {
