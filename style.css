@@ -130,7 +130,7 @@
   position:relative;
 }
 
-.hotel-txt {
+.slide.hotel a {
   /*display: block;
   color: #6fc5e0;
   
@@ -147,11 +147,11 @@
   padding:20px;
 }
 
-/*.slide-hotel h2 {
+.slide-hotel h2 {
     color:white;
     margin:0;
     padding:20px;
-}*/
+}
 
 .slide-food {
 /*  text-align: center; */
